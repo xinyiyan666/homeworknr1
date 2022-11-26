@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "."
+		},
+		{
+			"name": "dist",
+			"path": "../../../Downloads/bootstrap-4.6.1/dist"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
